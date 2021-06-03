@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles agreed on by the bishoppes, and other learned menne in the synode at London, in the yere of our Lorde Godde, M.D.LII. for the auoiding of controuersie in opinions, and the establishement of a godlie concorde, in certeine matiers of religion.</title>
+            <title>Forty-two Articles</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00041</idno><idno type="EEBO-CITATION">99847061</idno>
+  <idno type="VID">12068</idno>
+  <idno type="EEBO-PROQUEST">2248527032</idno>
+  <idno type="STC">STC 10034.2</idno>
+  <idno type="STC">ESTC S111791</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99847061e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12068)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 222:11 or 1795:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles agreed on by the bishoppes, and other learned menne in the synode at London, in the yere of our Lorde Godde, M.D.LII. for the auoiding of controuersie in opinions, and the establishement of a godlie concorde, in certeine matiers of religion.</title>
+                  <title>Forty-two Articles</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Richardus Craftonus [sic] typographus Regius excudebat. Londini,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>mense Iunij. An. do. M .D.LIII [1553]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Forty-two Articles of 1552.</note>
+                  <note>Another issue of STC 10034, partially reset.</note>
+                  <note>At foot of title page: Published by the kinges Maiesties commaundement, in the moneth of Maie. Anno Domini. 1553.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Identified as STC 10034 on UMI microfilm.</note>
+                  <note>Reproductions of the original in the Union Theological Seminary Library (New York, N.Y.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Doctrines --  Early works to 1800.</term>
+               <term type="topical_term">Canon law --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:12068:1"/>
+            <pb facs="tcp:12068:1"/>
+            <p>¶ Articles agreed on by the Bi<g ref="char:EOLhyphen"/>shoppes, and other learned menne in the Synode at London, in the yere of our Lorde Godde, M.D.LII. for the auoiding of controuersie in opinions, and the establishement of a god<g ref="char:EOLhyphen"/>lie concorde, in certeine matiers of Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>¶Published by the kinges Maeies<g ref="char:EOLhyphen"/>ties commaundement, in the Moneth of Maie. Anno Domini. 1553.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles_of_religion">
+            <pb facs="tcp:12068:2"/>
+            <pb facs="tcp:12068:2"/>
+            <head>¶ Articles publi<g ref="char:EOLhyphen"/>shed by the Kinges Maiestie</head>
+            <div n="1" type="part">
+               <head>¶ Of faith in the holie Trinitie</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <seg rend="decorInit">T</seg>Here is but one liuing, and true God, and he is everlasting with out bodie, partes, or passions, of infinite power, wisedome, and goodnesse, the maker, and pre<g ref="char:EOLhyphen"/>seruer of all thinges bothe vi<g ref="char:EOLhyphen"/>sible, and inuisible, and in vnitie of this Godhead there bee three persones of one substaunce, power, and eternitie, the Father, the Soonne, and the holie Ghoste.</p>
+            </div>
+            <div n="2" type="part">
+               <head>¶ That the woorde, or Sonne of God, was made a very man.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> THe sonne whiche is the woorde of the fa<g ref="char:EOLhyphen"/>ther, tooke mannes nature in the wombe of the blessed virgine Marie of her Sub<g ref="char:EOLhyphen"/>staunce, so that two whole, and perfeict natures, that is to saie, the Godhead, and manhode were ioigned together into one persone, neuer to be di<g ref="char:EOLhyphen"/>uided, wherof is one Christe very God, and very manne, who truely suffred, was crucified, dead, and buried, to reconcile his father to vs, and to be a Sacrifice for all sinne of manne, bothe ori<g ref="char:EOLhyphen"/>ginall, and actuall.</p>
+            </div>
+            <div n="3" type="part">
+               <pb facs="tcp:12068:3"/>
+               <head>¶ Of the goyng doune of Christe into Helle.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> AS Christ died, and was buried for vs: so al<g ref="char:EOLhyphen"/>so it is to be beleued, that he went downe in to hell. For the bodie laie in the Sepulchre, vntill the resurrection: but his Ghoste departing from him, was with the Ghostes that were in prison, or in Helle, and didde preache to thesame, as the place of. S. Peter dooeth testifie.</p>
+            </div>
+            <div n="4" type="part">
+               <head>¶ The Resurrection of Christe.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> CHriste didde truelie rise againe from deathe, and tooke again his bodie with flesh, bones, and all thinges apperteining to the perfecti<g ref="char:EOLhyphen"/>on of mannes nature, where with he ascended in<g ref="char:EOLhyphen"/>to Heauen, and there sitteth, vntill he retourne to iudge men at the last daie.</p>
+            </div>
+            <div n="5" type="part">
+               <head>The doctrine of holie Scripture is sufficient to Saluation</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> HOlie Scripture conteineth all thinges ne<g ref="char:EOLhyphen"/>cessarie to Saluation: So that whatsoeuer is neither read therin, nor maie be proued therby, although it be sometime receiued of the faithful, as Godlie, and profitable for an ordre, and come<g ref="char:EOLhyphen"/>linesse: Yeat no manne ought to bee constreigned
+<pb facs="tcp:12068:3"/>to beleue it as an article of faith, or repute it re<g ref="char:EOLhyphen"/>quisite to the necessitie of Saluation.</p>
+            </div>
+            <div n="6" type="part">
+               <head>The olde Testamente is not to be refused.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> THe olde Testament is not to bee put awaie as though it were contrarie to the newe, but to be kept still: for bothe in the olde, and newe Testamentes, euerlasting life is offred to mankinde by Christ, who is the onelie mediatour betwene Godde, and manne, being bothe Godde, and manne. Wherefore thei are not to be hearde, whiche feigne that olde Fathers did looke onely for transitorie promises.</p>
+            </div>
+            <div n="7" type="part">
+               <head>The three Credes</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> THE three Credes, Nicene Crede, Athana<g ref="char:EOLhyphen"/>sius Crede, and that whiche is commonlie called the Apostles Crede, ought throughly to be receiued: for thei maie be proued by most cer<g ref="char:EOLhyphen"/>teine warrauntes of holie Scripture.</p>
+            </div>
+            <div n="8" type="part">
+               <head>Of originall, or birthe sinne</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> ORIginall Sinne standeth not in the fo<g ref="char:EOLhyphen"/>lowing of Adam, as the Pellagianes doe vainelie talke, whiche also the Anabap<g ref="char:EOLhyphen"/>tistes doe now a daies renue, but it is the fault, &amp;
+<pb facs="tcp:12068:4"/>corruption of the nature of euery manne that na<g ref="char:EOLhyphen"/>turallie is engendred of the ofspring of Adam, whereby manne is very farre gone from his for<g ref="char:EOLhyphen"/>mer righteousnesse whiche he had at his creation and is of his owne nature geuen to eiuill, so that the fleshe desireth alwaies contrarie to the spirit, and therefore in euery persone borne into this world, it deserueth Goddes wrath &amp; damnation: And this infection of nature doeth remaine, yea in theim that are baptized, wherby the lust of the fleshe called in Greke <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (whiche some dooe expoune, the Wisedome, some sensualitie, some the affection, some the desire of the flesh) is not subiect to the lawe of GOD. And although there is no condemnation for theim that beleue, and are baptized, yeat Thapostle doeth confesse, that concupiscence, and lust hath of it self the na<g ref="char:EOLhyphen"/>ture of sinne.</p>
+            </div>
+            <div n="9" type="part">
+               <head>¶ Of free wille.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> WE haue no power to dooe good woorkes pleasaunte, and acceptable to God, with out the Grace of God by Christ, preuen<g ref="char:EOLhyphen"/>ting vs that wee maie haue a good wille, and woorke in vs, when we haue that wille.</p>
+            </div>
+            <div n="10" type="part">
+               <head>¶ Of Grace.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> THe Grace of Christ, or the holie Ghost by him geuen dooeth take awaie the stonie harte, and geueth an harte of fleshe. And
+<pb facs="tcp:12068:4"/>although, those that haue no will to good thin<g ref="char:EOLhyphen"/>ges, he maketh them to wil, and those that would eiuill thinges, he maketh them not to wille the<g ref="char:EOLhyphen"/>same: Yeat neuerthelesse he enforceth not the wil And therfore no man when he sinneth, can excuse himself, as not worthie to be blamed, or condem<g ref="char:EOLhyphen"/>ned, by alleging that he sinned vnwillinglie, or by compulsion.</p>
+            </div>
+            <div n="11" type="part">
+               <head>¶ Of the Iustification of manne.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> IUstification by onely faith in Iesus Christ in that sece, as it is declared in the homelie of Iustification, is a moste certeine, and holesome doctrine for Christien menne.</p>
+            </div>
+            <div n="12" type="part">
+               <head>¶ Woorkes before Iusti<g ref="char:EOLhyphen"/>fication.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> WOorkes doen before the Grace of Christ and the inspiratione of his spirite are not pleasaunt to GOD, forasmoche as thei spring not of Faithe in Iesu Christe, neither doe thei make menne mete to receiue Grace, or as the Schole aucthoures saie, deserue Grace of con<g ref="char:EOLhyphen"/>gruitie: but because thei are not doen as god hath willed, and commaunded theim to be dooen, we doubt not but thei haue the nature of sinne.</p>
+            </div>
+            <div n="13" type="part">
+               <pb facs="tcp:12068:5"/>
+               <head>¶ Woorkes of Superero<g ref="char:EOLhyphen"/>gation.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> VOluntarie woorkes besides, ouer, and a<g ref="char:EOLhyphen"/>boue Goddes commaundementes, whiche thei cal woorkes of Supererogation, can<g ref="char:EOLhyphen"/>not be taught without arrogancie, and iniquitie. For by theim menne dooe declare, that thei dooe not onely rendre to GOD, asmoche as thei are bounde to dooe, but that thei dooe more for his sake, then of bounden duetie is required: Where<g ref="char:EOLhyphen"/>as Christe saieth plainelie: when you haue dooen al that are commaunded you, saie, we be vnprofi<g ref="char:EOLhyphen"/>table seruauntes.</p>
+            </div>
+            <div n="14" type="part">
+               <head>¶ No man is without sinne, but Christe alone.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> CHriste in the trueth of our nature was made like vnto vs in al thinges, sinne onely except, from whiche he was clearelie voide bothe in his Fleshe, and in his Spirite. He came to be the lambe without spotte, who by Sacrifice of him<g ref="char:EOLhyphen"/>self made ones for euer, should take away the sin<g ref="char:EOLhyphen"/>nes of the worlde: and sinne (as Saint Ihon sai<g ref="char:EOLhyphen"/>eth) was not in him. But the rest, yea, althoughe we be baptized, and borne againe in Christe, yeat we all offende in many thinges: and if we saie, we haue no Sinne, wee deceiue our selues, and the trueth is not in vs.</p>
+            </div>
+            <div n="15" type="part">
+               <pb facs="tcp:12068:5"/>
+               <head>¶ Of sinne against the holie Ghoste.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> EUery deadlie sinne willinglie committed after Baptisme, is not Sinne against the holie Ghost, and vnpard onable: wherfore the place for penitence, is not to bee denighed to soche as fall into sinne after Baptisme. After we haue receiued the holie Ghoste, wee maie departe from grace geuen, and fall into sinne, and by the grace of GOD wee maie rise again, and amende our liues. And therfore thei are to be condemned, whiche saie, thei can nomore Sinne as long as thei liue here, or denigh the place for penitence to soche as truelie repent, and amende their liues.</p>
+            </div>
+            <div n="16" type="part">
+               <head>¶ Blasphemie against the holie Ghoste.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> BLasphemie against the holie Ghost is, when a man of malice, and stubburnesse of minde doeth raile vpon the trueth of goddes word manifestlie perceiued, and being enemie therunto persecuteth thesame. And because soche be guilty of Goddes curse, thei entangle themselues with a moste grieuous, and hainous crime, wherupon this kinde of sinne is called, and affirmed of the Lorde, vnpardonable.</p>
+            </div>
+            <div n="17" type="part">
+               <pb facs="tcp:12068:6"/>
+               <head>¶ Of predestination, and Election.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> PREdestination to life, is the euerlasting purpose of God, wherby (before the foun<g ref="char:EOLhyphen"/>dacions of the worlde were laied) he hath constantlie decreed by his owne Iudgemente se<g ref="char:EOLhyphen"/>crete to vs, to delruer from curse, and damnation those whom he hath chosen out of mankinde, and to bring them to euerlasting saluation by Christ, as besselles made to honour: wherupon, soche as haue so excellent a benefite of GOD geuen vnto theim be called, according to Goddes purpose, by his spirite woorking in due seasone, thei through grace obeie the calling, thei be iustified frely, thei be made sonnes by adoptione, thei bee made like the image of Goddes onely begotten sonne Iesu Christe, thei walke religiouslie in good woorkes, and at length by Goddes mercie, thei atteine to e<g ref="char:EOLhyphen"/>uerlasting felicitie.</p>
+               <p>As the Godlie consideration of Predesti<g ref="char:EOLhyphen"/>nation, and our election in Christe is ful of swete, pleasaunte, and vnspeakable coumfort to God<g ref="char:EOLhyphen"/>lie persones, and soche as feele in themselues the woorking of the spirite of Christ, mortifiyng the workes of the flesh, and their earthlie membres, and drawing vp their minde to high, and heauen<g ref="char:EOLhyphen"/>ly thinges, aswel because it doeth greatly stablish and confirme their faith of eternal Saluation to bee enioied through Christe, as because it dooeth seruentlie kindle their loue towardes Godde: So
+<pb facs="tcp:12068:6"/>for curious, and carnall persones lacking the spi<g ref="char:EOLhyphen"/>rite of Christ, to haue continuallie before their yies the sentence of Goddes predestination, is a moste daungerous dounefall, whereby, the Deuill mate thrust them either into desperatiō, or into a rechie<g ref="char:EOLhyphen"/>lesnesse of most vncleane liuing, no lesse perilous then desperation.</p>
+               <p>Furthermore although the Decrees of predes<g ref="char:EOLhyphen"/>tination are vnknowen vnto vs, year we must re<g ref="char:EOLhyphen"/>ceiue Goddes promises, in soche wise, as thei bee generallie set foorth to vs in holie Scripture, and in our doinges that wille of Godde is to be folo<g ref="char:EOLhyphen"/>wed, whiche we haue expresselie declared vnto vs in the woorde of Godde.</p>
+            </div>
+            <div n="18" type="part">
+               <head>¶ Wee must truste to obteine eternal Saluation one<g ref="char:EOLhyphen"/>ly by the name of Christe.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> THei, also are to be had accursed, &amp; abhorred that presume to saie, that euery man shalbe saued by the Lawe, or secte whiche he pro<g ref="char:EOLhyphen"/>fesseth, so that he bee diligente to frame his life according to that Lawe, and the lighte of Nature: For holie Scripture doeth sette our vnto vs onely the name of Iesu Christ whereby menne must be sa<g ref="char:EOLhyphen"/>ned</p>
+            </div>
+            <div n="19" type="part">
+               <pb facs="tcp:12068:7"/>
+               <head>¶ All men are bounde to Repe the moral commaundementes of the Lawe,</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> THe Lawe, whiche was geuen of GOD by Moses, although it binde not Christian menne, as concerning the Ceremonies, and Rites of the same: Neither is it required that the Ciuile Preceptes, and Ordres of it shoulde of necessitie bee receiued in any commune weale: Yeat no Manne, bee he neuer so perfeicte a Chri<g ref="char:EOLhyphen"/>stian, is exempte, and lose from the Obedience of those Commaundementes, whiche are called Moral: wherfore thei are not to be harkened vn<g ref="char:EOLhyphen"/>to, who affirme that holie Scripture is geuen on<g ref="char:EOLhyphen"/>lie to the weake, and dooe boast the imselues con<g ref="char:EOLhyphen"/>tinually of the spirit of whom (thei sate) thei haue learned soche thinges, as thei teache, although thesame be most euidently repugnaunt to the ho<g ref="char:EOLhyphen"/>lie Scripture.</p>
+            </div>
+            <div n="20" type="part">
+               <head>¶ Of the Churche.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> THe visible Churche of Christ, is a Congre<g ref="char:EOLhyphen"/>gation of faiethfull Menne, in the whiche the pure worde of GOD is preached, and the sacramentes be duelie ministed, according to Christes ordinaunce, in all those thinges that of necessitie are requisite to the same.</p>
+               <p>As the Churche of Ierusalem, of Alexandria, and of Antioche hath erred: So also the Churche of Rome hath erred not onely in their liuing, but
+<pb facs="tcp:12068:7"/>also in matiers of their faith.</p>
+            </div>
+            <div n="21" type="part">
+               <head>¶ Of the aucthoritie of the Churche.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="21"/> IT is not lawefulle for the Churche to or<g ref="char:EOLhyphen"/>dem any thing that is contrarie to Goddes worde writē, neither maie it so expoune one place of scripture, that it be repugnaunt to an o<g ref="char:EOLhyphen"/>ther. wherfore although the churche be a witnesse and a keper of holie writte, yeat as it ought not to decree any thing against thesame: So besides thesame, ought it not to enforce any thing to bee beleued for necessitie of Saluation.</p>
+            </div>
+            <div n="22" type="part">
+               <head>¶ Of the aucthoritie of gene<g ref="char:EOLhyphen"/>ral Counsailes</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> GEnerall counsailes maie not be gathered together, without the commaundemente, and will of Princes: and when thei be ga<g ref="char:EOLhyphen"/>thered (forasmoche as thei be an assemblie of mē, wherof all be not gouerned with the spirite, and woorde of GOD) thei maie erre, and sometime haue erred, not onely in worldlie matiers, but al<g ref="char:EOLhyphen"/>so in thinges perteining vnto God. Wherefore thinges ordeined by theim, as necessarie to Sal<g ref="char:EOLhyphen"/>uation, haue neither strength, nor auctoritie, on<g ref="char:EOLhyphen"/>lesse it maie be declared, that thei be taken out of holie scripture.</p>
+            </div>
+            <div n="23" type="part">
+               <pb facs="tcp:12068:8"/>
+               <head>¶ Of Purgatorie</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> THE doctrine of Scholeaucthoures con<g ref="char:EOLhyphen"/>cerning purgatorie, Pardones, Worship<g ref="char:EOLhyphen"/>ping, and adoration aswell of Images, as of reliques, and also inuocation of Sainctes, is a fonde thing vainlie fetgned, and grounded vpon no warraunt of scripture, but rather repugnant to the woorde of God.</p>
+            </div>
+            <div n="24" type="part">
+               <head>¶ No manne maie minister in the Congregation, except he be called.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="24"/> IT is not lawf<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for any man to take vpon him the office of Publique preaching, or mi<g ref="char:EOLhyphen"/>nistring the sacramentes in the congrega<g ref="char:EOLhyphen"/>tion, before he be lawfullie called, and sent to exe<g ref="char:EOLhyphen"/>cute thesame. And those we ought to iudge law<g ref="char:EOLhyphen"/>fullie called, and sent, whiche be chosen, and cal<g ref="char:EOLhyphen"/>led to this woorke by menne, who haue publique auctoritie geuen vnto them in the congregation, to cal, and sende ministres into the Lordes vine<g ref="char:EOLhyphen"/>yarde.</p>
+            </div>
+            <div n="25" type="part">
+               <head>¶ Menne must speake in the Congregation in soche toung, as the people vn<g ref="char:EOLhyphen"/>derstandeth.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/> IT is moste semelie, and moste agreable to the woorde of God, that in the congregation no<g ref="char:EOLhyphen"/>thing
+<pb facs="tcp:12068:8"/>be openlie readde, or spoken in a toungue vnknowen to the people, the whiche thing S. Paule didde forbidde, except some were presente that should declare the same.</p>
+            </div>
+            <div n="26" type="part">
+               <head>¶ Of the Sacramentes.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="26"/> OUR LORDE Iesus Christe hathe knitte toguether a companie of newe peo<g ref="char:EOLhyphen"/>ple with Sacramentes, moste fewe in numbre, moste easie to bee kepte, moste excellent in significatione, as is Baptisme, and the Lordes Supper.</p>
+               <p>THE Sacramentes were not ordeined of Christe to be gased vpon, or to be caried a<g ref="char:EOLhyphen"/>bout, but that we shoulde rightlie vse them. And in soche onely, as worthelie receiue thesame, thei haue an wholesome effecte, and operacione, and yet notthat of the woorke wrought, as some men speake, whiche worde, as it is straunge, and vnknowen to holie Scripture: So it engendreth no Godlie, but a verie supersticious sense. But thei that receiue the Sacramentes vnwoorthe<g ref="char:EOLhyphen"/>lie, purchace to theimselues Damnatione, as Saincte Paule saieth.</p>
+               <p>SAcramentes ordeined by the Worde of God be not onely Badges, and tokens of Christien Mennes professione, but rather thei bee certeme
+<pb facs="tcp:12068:9"/>sure witnesses, and effectuall signes of grace, and Goddes good will towarde vs, by the whiche he dooeth woorke inuisiblie in vs, and doeth not on<g ref="char:EOLhyphen"/>lie quicken, but also strengthen, and confirme our faith in him.</p>
+            </div>
+            <div n="27" type="part">
+               <head>¶ The wickednesse of the Mini<g ref="char:EOLhyphen"/>stres dooeth not take awaie the effectuall operation of Goddes ordinaunces</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> ALthough in the visible Churche the eiuill be euer mingled with the good, and sometime the eiuil haue chief aucthoritie in the mini<g ref="char:EOLhyphen"/>stration of the woorde, and Sacramentes: Year forasmoche as thei doe not thesame in their owne name, but dooe minister by Christes commission, and auctoritie: we maie vse their ministerie bothe in hearing the worde of God, and in the receiuing the sacramentes, neither is the effecte of Goddes Ordinaunces taken awaie by their Wicked<g ref="char:EOLhyphen"/>nesse, or the grace of Goddes giftes diminished from soche, as by faieth, and righthe receiue the Sacramentes ministred vnto them, whiche bee effectuall, because of Christes institutione, and promise, although thei be ministred by eiuil men. Neuerthelesse it apperteineth to the discipline of the Churche, that enquirie be made of soche, and that thei bee accused by those that haue knowe<g ref="char:EOLhyphen"/>lege of their offences, and finally being founde guiltie by iust iudgement, be deposed.</p>
+            </div>
+            <div n="28" type="part">
+               <pb facs="tcp:12068:9"/>
+               <head>¶ Of Baptisme.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> BAptisme is not onelie a signe of professi<g ref="char:EOLhyphen"/>on, and marke of difference, whereby Chri<g ref="char:EOLhyphen"/>stien menne are discerned from other that bee not Christened, but it is also a signe, and seale of our newe birth, whereby, as by an instrument thei that receiue Baptisme rightlie, are grafted in the Churche, the promises of forgeuenesse of Sinne, and our Adoption to bee the sonnes of God, are visiblie signed and sealed, faith is con<g ref="char:EOLhyphen"/>firmed, and grace increased by vertue of praier vnto God. The custome of the Churche to Chri<g ref="char:EOLhyphen"/>sten yonge children, is to bee commended, and in any wise to bee reteined in the Churche.</p>
+            </div>
+            <div n="29" type="part">
+               <head>¶ Of the Lordes Supper.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> THE Supper of the Lorde is not onely a signe of the loue that Christiens ought to haue among theim selues one to another, but rather it is a sacrament of our redemptiō by Christes death, insomoche that to soche as right: lie, woorthelie, and with faieth receiue thesame, the breade whiche we breake, is a communion of the bodie of Christe. Likewise the Cuppe of bles<g ref="char:EOLhyphen"/>sing, is a Communion of the bloude of Christe.</p>
+               <p>TRansubstanciation, or the chaunge of the substaunce of breade, and wine into the sub<g ref="char:EOLunhyphen"/>staunce
+<pb facs="tcp:12068:10"/>of Christes bodie, and bloude cannot bee proued by holie writte, but is repugnaunt to the plaine woordes of Scripture, and hath geuen occasion to many supersticions.</p>
+               <p>FORasmoche as the trueth of mannes na<g ref="char:EOLhyphen"/>ture requireth, that the bodie of one, and theself same manne cannot be at one time in diuerse places, but must nedes be in some one certeine place: Therfore the bodie of Christe can<g ref="char:EOLhyphen"/>not bee presente at one time in many, and diuerse places. And because (as holie Scripture doeth teache) Christe was taken vp into heauen, and there shall continue vnto thende of the worlde, a faithful mā ought not, either to beleue, or openlie to confesse the reall, and bodilie presence (as thei terme it) of Christes fleshe, and bloude, in the Sa<g ref="char:EOLhyphen"/>cramente of the Lordes supper.</p>
+               <p>THe Sacramente of the Lordes supper was not commaunded by Christes ordi<g ref="char:EOLhyphen"/>naunce to be kepte, caried about, lifted vp, nor worshipped.</p>
+            </div>
+            <div n="30" type="part">
+               <head>¶ Of the perfeicte obla<g ref="char:EOLhyphen"/>cion of Christe made vpon the crosse.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> THe offring of Christe made ones for euer, is the perfecte redemption, the pacifiyng of goddes displeasure, and satisfaction for
+<pb facs="tcp:12068:10"/>al the sinnes of the whole worlde, bothe original and actuall: and there is none other satisfaction for sinne, but that alone. wherefore the sacrifices of masses in the whiche, it was commonlie saied, that the Prieste did offre Christe for the quicke, and the dead, to haue remission of peine or sinne, were forged fables, and daungerouse deceiptes.</p>
+            </div>
+            <div n="31" type="part">
+               <head>¶ The state of single life is com<g ref="char:EOLhyphen"/>maunded to no man by the worde of God.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="31"/> BIshoppes, Priestes, and Deacons are not commaunded to vowe the state of single life without mariage, neither by Goddes lawe are thei compelled to absteine from matri<g ref="char:EOLhyphen"/>monie.</p>
+            </div>
+            <div n="32" type="part">
+               <head>¶ Excommunicate per<g ref="char:EOLhyphen"/>sones are to bee auoided.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="32"/> THat persone, whiche by open denunciacion of the Churche, is rightlie cut of from the vnitie of the Churche, and excommunicate, ought to be taken of the whole multitude of the faiethful, as an Heathen, and publicane, vntil he bee openlie reconciled by penaunce, and receiued into the Churche by a Iudge that hath auchto<g ref="char:EOLhyphen"/>ritie thereto.</p>
+               <pb facs="tcp:12068:11"/>
+            </div>
+            <div n="33" type="part">
+               <head>¶ Tradicions of the Churche.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="33"/> IT is not necessarie that tradicions and ce<g ref="char:EOLhyphen"/>remonies bee in all places one, or vtterlie like. For at al times thei haue been diuers, and maie bee chaunged, according to the diuersi<g ref="char:EOLhyphen"/>tie of countries, and mennes maners, so that no<g ref="char:EOLhyphen"/>thing bee ordeined against goddes worde.</p>
+               <p>WHosoeuer through his priuate iudgement willinglie, and purposelie doeth openlie breake the tradicions, and Ceremonies of the Churche, whiche bee not repugnaunte to the worde of God, and bee ordeined, and approued by common aucthoritie, ought to be rebuked openlie (that other maie feare to doe the like) as one that offendeth against the cōmon ordre of the churche, and hurteth thauctoritie of the Magistrate, and woundeth the consciences of the weake brethrē.</p>
+            </div>
+            <div n="34" type="part">
+               <head>¶ Homelies.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="34"/> THomelies of late geuen, and set out by the Kinges aucthoritie, be godlie and holsome, conteming doctrine to bee receiued of all menne, and therefore are to be readde to the peo<g ref="char:EOLhyphen"/>ple diligentlie, distinctlie, and plainlie.</p>
+            </div>
+            <div n="35" type="part">
+               <pb facs="tcp:12068:11"/>
+               <head>¶ Of the booke of Praiers, and Ceremonies of the Churche of Englande.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="35"/> THe Booke whiche of very late time was geuen to the Churche of Englande by the Kinges aucthoritie, and the Parlamente, conteining the maner and fourme of praiyng, and ministring the Sacramētes in the Churche of Englande, likewise also the booke of ordring Ministers of the Churche, set foorth by the for<g ref="char:EOLhyphen"/>saied aucthoritie, are godlie, and in no poincte re<g ref="char:EOLhyphen"/>pugnaunt to the holsome doctrine of the Gospel but agreable thereunto, ferthering and beauti<g ref="char:EOLhyphen"/>fiyng thesame not a litle, and therfore of al faith<g ref="char:EOLhyphen"/>full membres of the Churche of Englande, and chieflie of the ministers of the worde, thei ought to be receiued, and allowed with all readinesse of minde, and thankes geuing, and to bee commen<g ref="char:EOLhyphen"/>ded to the people of God.</p>
+            </div>
+            <div n="36" type="part">
+               <head>¶ Of Ciuile ma<g ref="char:EOLhyphen"/>gistrates.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="36"/> THe King of Englande is Supreme head in earth, nexte vnder Christe, of the Churche of Englande, and Irelande.</p>
+               <p>THe Bishoppe of Rome hath no iurisdiction in this Realme of Englande.</p>
+               <pb facs="tcp:12068:12"/>
+               <p> THe ciuile Magistrate is ordeined, and allo<g ref="char:EOLhyphen"/>wed of God: wherefore we must obeie him, not onely for feare of punishment, but also for conscience sake.</p>
+               <p>THe ciuile lawes maie punishe Christien men with death, for heinous, &amp; grieuous offences.</p>
+               <p>IT is lawefull for Christians, at the com<g ref="char:EOLhyphen"/>maundement of the Magistrate, to weare weapons, and to serue in laweful warres.</p>
+            </div>
+            <div n="37" type="part">
+               <head>¶ Christien mennes gooddes are not commune.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="37"/> THe richesse &amp; gooddes of christians are not commune, as touching the right title, &amp; pos<g ref="char:EOLhyphen"/>session of the same (as certain anabaptistes dooe falslie boaste) not withstanding euery man ought of such thinges, as he possesseth, liberallie to geue almes to the pore, according to his habilitie.</p>
+            </div>
+            <div n="38" type="part">
+               <head>¶ Christien menne maie take an Othe.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="38"/> IS we confesse that vaine, &amp; rashe swearing is forbed Christien men by our Lorde Iesu Christ, and his Apostle Iames: so we iudge that christien religiō doeth not prohibite, but that a mā maie sweare, when the magistrate requireth in a cause of faith, and charitie, so it bee doen (ac<g ref="char:EOLhyphen"/>cording to the Prophetes teaching) in iustice, iud<g ref="char:EOLhyphen"/>gemente, and trueth.</p>
+            </div>
+            <div n="39" type="part">
+               <pb facs="tcp:12068:12"/>
+               <head>¶ The Resurrection of the dead is not yeat brought to passe.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="39"/> THe Resurrection of the dead is not as yet brought to passe, as though it only belōged to the soulle, whiche by the grace of Christe is raised from the death of sinne, but it is to be lo<g ref="char:EOLhyphen"/>ked for at the laste daie: for then (as Scripture doeth moste manifestlie testifie) to all that bee dead their awne bodies, fleshe, and bone shalbe re<g ref="char:EOLunhyphen"/>stored, that the whole mā maie (according to his workes) haue other rewarde, or punishment, as he hath liued vertuoussie, or wickedlie.</p>
+            </div>
+            <div n="40" type="part">
+               <head>¶ The soulles of them that departe this life doe neither die with the bodies, nor sleepe idlie.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="40"/> THei which saie, that the soulles of suche as departe hens doe sleepe, being without al sence, fealing, or perceiuing, vntil the daie of iudgement, or affirme that the soulles die with the bodies, and at the laste daie shalbe raised vp with thesame, doe vtterlie dissent from the right beliefe declared to vs in holie Scripture.</p>
+            </div>
+            <div n="41" type="part">
+               <head>¶ Heretickes called Millenarii.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="41"/> THei that goe aboute to renewe the fable of heretickes called Millenarij, be repugnant to holie Scripture, and caste them selues headlong into a Iuishe dotage.</p>
+            </div>
+            <div n="42" type="part">
+               <pb facs="tcp:12068:13"/>
+               <head>¶ All men shall not bee saued at the length.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="42"/> THei also are worthie of condemnacion, who indeuoure at this time to restore the daun<g ref="char:EOLhyphen"/>gerouse opinion, that al menne, be thei ne<g ref="char:EOLhyphen"/>uer so vngodlie, shall at lenght bee saued, when thei haue suffered paines for their sinnes a certaine time appoincted by Goddes iu<g ref="char:EOLhyphen"/>stice.</p>
+            </div>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Richardus Graftonus typographus Re<g ref="char:EOLhyphen"/>gius excudebat. Londini. mense Iunij.</p>
+            <p>An. do. M.D.LIII.</p>
+         </div>
+         <div type="license">
+            <p>Cum priuilegio ad impri<g ref="char:EOLhyphen"/>mendum solum.</p>
+            <pb facs="tcp:12068:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
